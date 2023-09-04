@@ -1,0 +1,15 @@
+.main{
+  
+   background-color: maroon;
+   width: 100%;
+   height: 500px;
+}
+.main h1{
+  color: chartreuse;
+  font: bold;
+  
+}
+img{
+  width: 500px;
+  height: 200px;
+}
